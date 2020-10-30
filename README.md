@@ -1,1 +1,1 @@
-react-native init mobile
+react-native init mobile 
